@@ -8,7 +8,7 @@ Anyone wishing to [participate](https://www.oasis-open.org/org/faq#committee-par
 per the [TC Process](https://www.oasis-open.org/policies-guidelines/tc-process#membership). 
 
 Persons who are not TC members are invited to open issues and provide comments using this repository's [GitHub Issues](https://github.com/oasis-tcs/sam-tss/issues/new) 
-tracking facility or using the TC's [comment facility](https://www.oasis-open.org/committees/comments/index.php?wg_abbrev=sam).  All such content created in 
+tracking facility or using the TC's [comment facility](https://groups.oasis-open.org/communities/community-home?CommunityKey=0230e1ad-86b9-49a5-9f08-018f5aa80955).  All such content created in 
 GitHub Issues and/or posted to the TC's [archived comment list](https://lists.oasis-open.org/archives/sam-comment/) is governed by the terms of the 
 [OASIS Feedback License](https://www.oasis-open.org/policies-guidelines/ipr#appendixa)
 
